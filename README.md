@@ -1,6 +1,7 @@
 # Assignment 
-For Task 1 i have used jupyter notebook. 
 
+For Task 1 i have used jupyter notebook. 
+**Note : Only enter the data from console. Rest the automation will do things. No need to manually add data while script is running.**
 Installation steps:
 * Go to this site and follow the steps to install anaconda on your windows. (https://docs.anaconda.com/anaconda/install/windows/)
 * Once you have installed it open jupyter notebook.
