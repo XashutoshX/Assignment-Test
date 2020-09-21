@@ -15,3 +15,17 @@ Installation steps:
 * To check the output either refer console or open "data.csv" file.
 
 ***
+# Task 2 
+
+To run the project install following dependencies 
+
+**Note:Make sure you have node.js installed on your system**
+
+* Open folder "assignment" in you Visual Studio. All the files present in it will load.
+* Open server.js file. It contains js script for api request
+* Open Script.py file . It contains the python code to convert pdf to text
+* Now in visual studio Menu bar Click Terminal -> Click New Terminal or you can also do CTRL + SHIFT + `
+* Terminal will open . run this command .
+* node server.js 
+* now open browser and enter this url "localhost:8080/pdf2txt"
+* you will receive the text from pdf in json format. Also the text file will be generated on your system with name "output.txt"
