@@ -1,6 +1,6 @@
 # Assignment 
-
-For Task 1 i have used jupyter notebook. 
+***
+# For Task 1 i have used jupyter notebook. 
 
 **Note : Only enter the data from console. Rest the automation will do things. No need to manually add data while script is running.**
 
@@ -13,3 +13,5 @@ Installation steps:
 * While executing it will ask to enter the company name.
   eg: Wells Fargo & Company.
 * To check the output either refer console or open "data.csv" file.
+
+***
